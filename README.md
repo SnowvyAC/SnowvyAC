@@ -3,6 +3,8 @@
 - She/her
 - Github suggested that I say a fun fact so... I can say that I'm very passionate about my projects, I love homemade stuff, I'm trying to start a homelab and I like anthropomorphic charactes
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowvyAC)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 SnowvyAC/SnowvyAC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
